@@ -1,7 +1,7 @@
 # Maintainer: Leonid Pilyugin  <l.pilyugin04@gmail.com>
 
 pkgname=kawaii-look-and-feel
-pkgver=1.0
+pkgver=1.1
 pkgrel=1
 pkgdesc='Kawaii KDE look-and-feel'
 groups=('kawaii')
