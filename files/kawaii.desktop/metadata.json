@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Category": "",
+        "Description": "Kawaii theme for Menhera OS",
+        "Id": "kawaii.desktop",
+        "License": "GPLv2+",
+        "Name": "Kawaii",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "2.0"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;Kawaii;Nyah;Anime;Hentai;Menhera OS;",
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults",
+    "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+    "X-KDE-PluginInfo-Category": "Plasma Look And Feel"
+}
